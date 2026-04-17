@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace MakerPen
 {
-    [BepInPlugin("org.alta.gorillatag.makerpen", "MakerPen", "1.0.0")]
+    [BepInPlugin("org.alta.gorillatag.makerpen", "MakerPen", "1.0.1")]
     public class Plugin : BaseUnityPlugin
     {
         private void Awake()
